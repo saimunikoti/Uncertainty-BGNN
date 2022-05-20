@@ -1,8 +1,6 @@
 # Uncertainty-BGNN
 Propagation of Aleatoric and Epistemic Uncertainty in Graph Neural Networks
 
-Anonymized GitHub repo for ICML 2022 Submission.
-
 This code is provided solely for the purpose of peer review for the ICML 2022 conference.
 
 ===================== File specification =========================
