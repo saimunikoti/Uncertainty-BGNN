@@ -27,4 +27,13 @@ This code is provided solely for the purpose of peer review for the ICML 2022 co
 
 11. src/visualization/visual.py: helping functions for visualizing features 
 
+### Contributor 
+Sai Munikoti - sai.munikoti [at] pnnl [dot] gov
+
+Deepesh Agarwal - deepesh.agarwal [at] ksu [dot] edu
+
+Laya Das - lay.das [at] ethz [dot] ch
+
+Bala Natarajan - bala [at] ksu [dot] edu
+
 ==================================== end =========================
